@@ -67,7 +67,7 @@ source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 
 # Abra o notebook
-jupyter notebook churn_pipeline_final.ipynb
+jupyter notebook Telco.ipynb
 ```
 
 Certifique-se de que o arquivo `WA_Fn-UseC_-Telco-Customer-Churn.csv` esteja na mesma pasta do notebook.
@@ -87,7 +87,7 @@ jupyter
 ## 📁 Estrutura do repositório
 
 ```
-├── churn_pipeline_final.ipynb   # Notebook principal com todo o pipeline
+├── Telco.ipynb   # Notebook principal com todo o pipeline
 ├── WA_Fn-UseC_-Telco-Customer-Churn.csv   # Dataset
 ├── requirements.txt
 └── README.md
