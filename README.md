@@ -1,4 +1,4 @@
-# 📊 Previsão de Churn de Clientes — Telco Customer Churn
+# Previsão de Churn de Clientes:Telco Customer Churn
 
 Projeto de Machine Learning para prever a evasão (*churn*) de clientes de uma empresa de telecomunicações, a partir de dados cadastrais, de contrato e de consumo de serviços.
 
